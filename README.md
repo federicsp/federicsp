@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**federicsp/federicsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on data engineering tasks and Python microservices for Immobiliare.it.
+- 🌱 I’m currently learning more about cloud architecture and advanced data pipelines.
+- 👯 I’m looking to collaborate on open-source projects related to data engineering or Python development.
+- 💬 Ask me about Python, data engineering.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/federico-spatola/) or [GitHub](https://github.com/federicsp).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: My hobbies include acting, playing padel and trekking!
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/federicsp">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicsp&title_color=ffffff" />
+  </a>
+</div>
