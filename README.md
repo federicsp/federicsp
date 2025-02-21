@@ -6,7 +6,6 @@
 - 💬 Ask me about Python, data engineering.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/federico-spatola/) or [GitHub](https://github.com/federicsp).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My hobbies include acting, playing padel and trekking!
 
 ## 📈 GitHub Stats
 
